@@ -4,11 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "d17c50bdbdc9992eb5773219f6cac775",
-"index.html": "fdbed2ba2352067e2a9bab18196b1598",
-"/": "fdbed2ba2352067e2a9bab18196b1598",
+"index.html": "93644371f549f01ef8f69c415baf7efb",
+"/": "93644371f549f01ef8f69c415baf7efb",
 "styles.css": "37415c92e7efbc9440e8a92c6cdca50b",
 "main.dart.js": "7bb55120b634f82b072fdb8d2e34715d",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -98,11 +97,7 @@ const RESOURCES = {
 "assets/animations/delivery_truck.json": "d40806188d3fdb5f9ad497936f6e6806",
 "assets/animations/delivery_bike.json": "6538ce89720e2f07aa9fc23e4c2b0738",
 "assets/animations/delivery-truck_3.json": "4650d067b328d0284daa31f6478de785",
-"assets/animations/manger_check.json": "9a6374403d7ffb884a837b4cdf785599",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/animations/manger_check.json": "9a6374403d7ffb884a837b4cdf785599"
 };
 
 // The application shell files that are downloaded before a service worker can
