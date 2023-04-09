@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1001,
+    "createdDate": "2022-08-23T18:03:00Z",
+    "user": {
+      "id": 3,
+      "login": "989369512837",
+      "firstName": "mmdrza",
+      "lastName": "mmdrza",
+      "email": "mmdrza@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "READY_TO_ASSIGN",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "user",
+      "lastName": "user",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "optimize",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "omar",
+      "lastName": "jabar",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "START_REQUEST",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "peter",
+      "lastName": "parker",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "LOADING",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "ross",
+      "lastName": "hanaman",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "IN_PROGRESS",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "roku",
+      "lastName": "saki",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "COMPLETED",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "marika",
+      "lastName": "abdul",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "IN_PROGRESS",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  },
+  {
+    "id": 1201,
+    "createdDate": "2022-09-02T18:53:00Z",
+    "user": {
+      "id": 2,
+      "login": "user",
+      "firstName": "miqula",
+      "lastName": "cooper",
+      "email": "user@localhost"
+    },
+    "tripStatuses": [
+      {
+        "id": 1251,
+        "createdDate": "2022-09-02T18:54:13.255549Z",
+        "type": "null",
+        "trip": {
+          "id": 1201,
+          "createdDate": "2022-09-02T18:53:00Z",
+          "user": "user1",
+          "status": "1",
+          "tripStops": "2"
+        }
+      }
+    ],
+    "tripStops": []
+  }
+]

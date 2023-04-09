@@ -1,0 +1,22 @@
+{
+  "routes": {
+    "total": 32,
+    "inProgress": 5,
+    "beind": 4,
+    "notDeparted": 1,
+    "lateDeparting": 6,
+    "atRisk": 3
+  },
+  "rates": {
+    "successAttemps": 34,
+    "stopProggress": 26
+  },
+  "packages": {
+    "missing": 1,
+    "totalNumberOfPackages": 10,
+    "reattempt": 1,
+    "undeliverable": 1,
+    "packagesDelivered": 1,
+    "returnToStation": 1
+  }
+}
